@@ -20,19 +20,19 @@ Special thanks to my mentor Billy Bett for helping me get through my blockers an
 
 ### Welcome Page
 
-![Welcome Page](home.jpg)
+![Welcome Page](home.png)
 
 This page welcomes the user and allows them to start a chat session with ReX.
 
 ### Chat Interface
 
-![Chat Interface](chat.jpg)
+![Chat Interface](chat.png)
 
 This is the chat interface where users can send messages to ReX and receive responses.
 
 ### Statistics Page
 
-![Statistics Page](stat.jpg)
+![Statistics Page](stat.png)
 
 This page displays a graph of the conversation history with ReX and details of each chat session.
 
